@@ -1,0 +1,1 @@
+{"name":"Word Count","slug":"word-count","version":"1.0.0","description":"Displays word count in the post meta row on the frontend. Uses the same text extraction as Reading Time.","author":"Contensio","author_url":"https://contensio.com","requires_contensio":"2.0.0","provider":"Contensio\\Plugins\\WordCount\\WordCountServiceProvider"}
