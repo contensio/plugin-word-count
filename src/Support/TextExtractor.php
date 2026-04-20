@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Word Count — Contensio plugin.
+ * Word Count - Contensio plugin.
  * https://contensio.com
  *
  * @copyright   Copyright (c) 2026 Iosif Gabriel Chimilevschi

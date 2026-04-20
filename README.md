@@ -1,6 +1,6 @@
 # Word Count
 
-Displays the word count of a post in the post meta row. The count includes the title, excerpt, and all block content — the same corpus that the Reading Time plugin uses for its estimate.
+Displays the word count of a post in the post meta row. The count includes the title, excerpt, and all block content - the same corpus that the Reading Time plugin uses for its estimate.
 
 **Features:**
 - Word count shown inline in the post meta row

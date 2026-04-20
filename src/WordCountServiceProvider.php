@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Word Count — Contensio plugin.
+ * Word Count - Contensio plugin.
  * https://contensio.com
  *
  * @copyright   Copyright (c) 2026 Iosif Gabriel Chimilevschi
@@ -18,6 +18,8 @@ use Illuminate\Support\ServiceProvider;
 
 class WordCountServiceProvider extends ServiceProvider
 {
+    protected string $ns = 'contensio-word-count';
+
     public function boot(): void
     {
         // Inject word count into the post meta row at priority 6

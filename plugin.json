@@ -4,7 +4,7 @@
     "description": "Displays word count in the post meta row on the frontend. Uses the same text extraction as Reading Time.",
     "author": "Contensio",
     "author_url": "https://contensio.com",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "provider": "Contensio\\Plugins\\WordCount\\WordCountServiceProvider",
     "autoload": {
         "psr-4": {
